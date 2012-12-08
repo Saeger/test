@@ -1,4 +1,6 @@
-test
+Test Repository
 ====
 
-Repositório com fins de testes
+This is a test repo. There`s no purpose for the public.
+
+Saeger
